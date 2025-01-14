@@ -1,4 +1,4 @@
-### GitHub Summary: The Closet Voucher System SQL Database
+###  The Closet Voucher System SQL Database
 
 This repository contains the SQL database and management system for the Closet Voucher System, which tracks voucher registrations and transactions for recipients of a voucher program.
 
